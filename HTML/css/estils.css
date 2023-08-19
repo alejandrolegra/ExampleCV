@@ -1,0 +1,63 @@
+body{
+font-family: Helvetica;
+}
+
+h1 {
+	text-align: center;
+	font-size: 50px;
+}
+
+h2 { 
+	margin-left: 100px;
+	font-size: 30px;
+	color: #3A3B3D;
+	margin-bottom: 20px;
+}
+
+section {
+	margin-left: 100px;
+	margin-right: 100px;
+	text-align: justify;
+}
+
+#negrita {
+	font-weight: bold;
+	margin-bottom: 8px;
+}
+
+nav {
+	margin-left: 110px;
+	text-align: justify;
+}
+
+li {
+	margin-bottom: 8px;
+	margin-right: 100px;
+	text-align: justify;
+}
+
+#contenedor {
+	background-color: white;
+	margin-right: 300px;
+}
+
+#barralateral {
+	background-color: #3A3B3D;
+	float: right;
+	padding: 30px 50px 50px 50px;
+	color: lightgray;
+}
+
+#perfil {
+	margin-bottom: 17px;
+}
+
+h3 {
+	color: white;
+	margin-top: 8px;
+	font-size: 21px;
+}
+
+p {
+	font-size: 14.5px;
+}

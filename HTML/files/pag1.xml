@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href="../css/estils1.css"?>
+<apple>
+  <box>
+    <icon1></icon1>
+    <box1>Tienda</box1>
+    <box2>Mac</box2>
+    <box3>iPad</box3>
+    <box4>iPhone</box4>
+    <box5>Watch</box5>
+    <box6>AirPods</box6>
+    <box7>TV y Casa</box7>
+    <box8>Solo en Apple</box8>
+    <box9>Accesorios</box9>
+    <box10>Soporte</box10>
+    <icon2></icon2>
+    <icon3></icon3>
+  </box>
+
+  <sub>Cambia un dispositivo válido por un descuento para tu próxima compra.</sub>
+  
+  <estructura>
+      <colocacio>
+        <bloque>
+          <linea1>La mejor forma de</linea1>
+          <linea2>comprar tus productos</linea2>
+          <linea3> favoritos.</linea3>
+        </bloque>
+        <ayuda>
+          <cara></cara>
+          <p1>¿Necesitas ayuda con tu compra?</p1>
+          <p2>Habla con nuestros especialistas</p2>
+          <chat></chat>
+          <p3>Pásate por un Apple Store</p3>
+          <p4>Busca uno cerca de ti ></p4>
+        </ayuda>
+      </colocacio> 
+  </estructura>
+  <productes>
+    <producte>
+      <fotos1></fotos1>
+      <text1>Mac</text1>
+    </producte>
+    <producte>
+      <fotos2></fotos2>
+      <text2>iPhone</text2>
+    </producte>
+    <producte>
+      <fotos3></fotos3>
+      <text3>iPad</text3>
+    </producte>
+    <producte>
+      <fotos4></fotos4>
+      <text4>AppleWatch</text4>
+    </producte>
+    <producte>
+      <fotos5></fotos5>
+      <text5>AirPods</text5>
+    </producte>
+    <producte>
+      <fotos6></fotos6>
+      <text6>AirTag</text6>
+    </producte>
+    <producte>
+      <fotos7></fotos7>
+      <text7>AppleTV</text7>
+    </producte>
+    <producte>
+      <fotos8></fotos8>
+      <text8>HomePodmini</text8>
+    </producte>
+  </productes>
+
+  <sub2>Echa un vistazo a las novedades.</sub2>
+
+  <pods>
+    <pod1></pod1>
+    <pod2></pod2>
+    <pod3></pod3>
+  </pods>
+
+  <sub3>Cuando, como y donde quieras.</sub3>
+  
+</apple>

@@ -1,0 +1,428 @@
+apple {
+   background-color: #F5F4F7;
+   font-family: Helvetica;
+}
+
+
+box {
+	display: inline-block;
+	background-color: #333333;
+   padding: 15px 330px 20px 50px;
+   font-size: 12px;
+   color: lightgrey;
+   padding-left: 155px;
+   text-align: center;
+} 
+
+box1 {
+	padding-right: 35px;
+	padding-left: 55px;
+}
+
+box2 {
+	padding-right: 35px;
+}
+
+box3 {
+	padding-right: 35px;
+}
+
+box4 {
+	padding-right: 35px;
+}
+
+box5 {
+	padding-right: 35px;
+}
+
+box6 {
+	padding-right: 35px;
+}
+
+box7 {
+	padding-right: 35px;
+}
+
+box8 {
+	padding-right: 35px;
+}
+
+box9 {
+	padding-right: 35px;
+}
+
+
+box10 {
+	padding-right: 35px;
+}
+
+
+icon1 {
+	background-image: url("../images/apple.png");
+	background-repeat: no-repeat;
+	width: 50px;
+	height: 70px;
+	position: absolute;
+	margin-bottom: 30px;
+}
+
+icon2 {
+	background-image: url("../images/lupa.png");
+	background-repeat: no-repeat;
+	width: 50px;
+	height: 70px;
+	position: absolute;
+	margin-bottom: 30px;
+}	
+
+icon3 {
+	background-image: url("../images/compra.png");
+	background-repeat: no-repeat;
+	width: 50px;
+	height: 70px;
+	position: absolute;
+	margin-left: 50px;
+
+}
+
+sub {
+   background: white;
+   display: block;
+   padding-top: 12px;
+   padding-bottom: 12px;
+   text-align: center;
+   font-size: 14px;
+}
+
+sub:after {	
+	content: "Más información >";
+	color: blue;
+
+}
+
+colocacio {
+   display: flex;
+}
+
+
+bloque{
+   display: block;
+}
+
+p1, p2, p3, p4 {
+   display: block;
+   margin-left: 300px;
+
+}
+
+ayuda {
+	margin-top: 70px;
+
+}
+
+linea1 {
+   padding-top: 59px;
+   display: block;
+   font-size: 32px;
+   margin-left: 280px;
+   font-weight: bold;
+   font-weight: 600;
+   color: grey;
+}
+
+linea1:before {
+	content: "Tienda. ";
+	color: black;
+}
+
+linea2 {
+   padding-top: -90px;
+   display: block;
+   font-size: 32px;
+   margin-left: 280px;
+   font-weight: bold;
+   font-weight: 600;
+   color: grey;
+}
+
+linea3 {
+   padding-top: 0px;
+   display: block;
+   font-size: 32px;
+   margin-left: 280px;
+   font-weight: bold;
+   font-weight: 600;
+   color: grey;
+}
+
+p1{
+   color: black;
+   padding-top: 0px;
+   font-size: 12px;
+   font-weight: bold;
+   text-align: right;
+}
+
+p2{
+   color: blue;
+   font-size: 12px;
+}
+
+p3 {
+   color: black;
+   padding-top: 0px;
+   font-size: 12px;
+   font-weight: bold;
+   margin-top: 10px;
+   border-right: 0px;
+}
+p4{
+   color: blue;
+   font-size: 12px;
+}
+
+cara {
+   position: absolute;
+   color: transparent;
+   background-image: url("../images/cara.png");
+   background-size: 29px;
+   background-repeat: no-repeat;
+   padding: 20px;
+   right: 385px;
+   top: 152px;
+}
+
+chat {
+   position: absolute;
+   color: transparent;
+   background-image: url("../images/chat.png");
+   background-size: 29px;
+   background-repeat: no-repeat;
+   padding: 20px;
+   right: 385px;
+   top: 197px;
+}
+
+fotos1 {
+   background-image: url("../images/fotos1.png");
+   background-repeat: no-repeat;
+   width: 128px;
+   height: 96px;
+   position: absolute;
+}
+
+fotos2 {
+   background-image: url("../images/fotos2.png");
+   background-repeat: no-repeat;
+   width: 82px;
+   height: 92px;
+   position: absolute;
+}
+
+fotos3 {
+   background-image: url("../images/fotos3.png");
+   background-repeat: no-repeat;
+   width: 92px;
+   height: 82px;
+   position: absolute;
+}
+
+fotos4 {
+   background-image: url("../images/fotos4.png");
+   background-repeat: no-repeat;
+   width: 81px;
+   height: 78px;
+   position: absolute;
+}
+
+fotos5 {
+   background-image: url("../images/fotos5.png");
+   background-repeat: no-repeat;
+   width: 111px;
+   height: 75px;
+   position: absolute;
+}
+
+fotos6 {
+   background-image: url("../images/fotos6.png");
+   background-repeat: no-repeat;
+   width: 79px;
+   height: 70px;
+   position: absolute;
+   margin-top: 10px;
+}
+
+fotos7 {
+   display: block;
+   background-image: url("../images/fotos7.png");
+   background-repeat: no-repeat;
+   width: 99px;
+   height: 85px;
+   position: absolute;
+}
+
+fotos8 {
+   display: block;
+   background-image: url("../images/fotos8.png");
+   background-repeat: no-repeat;
+   width: 86px;
+   height: 64px;
+   position: absolute;
+   margin-top: 20px;
+}
+
+text1 {
+   display: inline-block;
+   text-align: center;
+   margin-top: 65px;
+   padding-top: 35px;
+   padding-left: 35px;
+   width: 50px;
+}
+
+text2 {
+   display: inline-block;
+   text-align: center;
+   margin-top: 65px;
+   padding-top: 35px;
+   padding-left: 20px;
+   width: 50px;
+}
+
+text3 {
+   display: inline-block;
+   text-align: center;
+   margin-top: 65px;
+   padding-top: 35px;
+   padding-left: 20px;
+   width: 50px;
+}
+
+text4 {
+   display: inline-block;
+   text-align: center;
+   margin-top: 65px;
+   padding-top: 35px;
+   padding-left: 5px;
+   width: 50px;
+}
+
+text5 {
+   display: inline-block;
+   text-align: center;
+   margin-top: 65px;
+   padding-top: 35px;
+   padding-left: 30px;
+   width: 50px;
+}
+
+text6 {
+   display: inline-block;
+   text-align: center;
+   margin-top: 65px;
+   padding-top: 35px;
+   padding-left: 20px;
+   width: 50px;
+}
+
+text7 {
+   display: inline-block;
+   text-align: center;
+   margin-top: 65px;
+   padding-top: 35px;
+   padding-left: 23px;
+   width: 50px;
+}
+
+text8 {
+   display: inline-block;
+   text-align: center;
+   margin-top: 65px;
+   padding-top: 35px;
+   padding-left: 5px;
+   width: 50px;
+}
+
+productes {
+   display: flex;
+   text-align: center;
+   width: 700px;
+   height: 100px;
+   margin-top: 60px; 
+   margin-left: 250px;
+   margin-right: 333px;
+}
+
+producte {
+   display: inline-block;
+   width: 100px;
+   height: 100px;
+   margin-top: 30px;
+   margin-right: 70px;
+   font-size: 14px;
+}
+
+sub2 {
+   padding-top: 150px;
+   display: block;
+   font-size: 24px;
+   margin-left: 280px;
+   font-weight: bold;
+   font-weight: 600;
+   color: grey;
+}
+
+sub2:before {
+   content: "Lo último. ";
+   color: black;
+}
+
+pod1 {
+   display: block;
+   background-image: url("../images/pod1.png");
+   background-repeat: no-repeat;
+   width: 328px;
+   height: 407px;
+   position: absolute;
+   margin-top: 20px;
+   margin-left: 270px;
+}
+
+pod2 {
+   display: block;
+   background-image: url("../images/pod2.png");
+   background-repeat: no-repeat;
+   width: 330px;
+   height: 406px;
+   position: absolute;
+   margin-top: 20px;
+   margin-left: 610px;
+}
+
+pod3 {
+   display: block;
+   background-image: url("../images/pod3.png");
+   background-repeat: no-repeat;
+   width: 305px;
+   height: 410px;
+   position: absolute;
+   margin-top: 20px;
+   margin-left: 950px;
+}
+
+sub3 {
+   padding-top: 490px;
+   display: block;
+   font-size: 24px;
+   margin-left: 280px;
+   font-weight: bold;
+   font-weight: 600;
+   color: grey;
+   padding-bottom: 30px;
+}
+
+sub3:before {
+   content: "Te ayudamos. ";
+   color: black;
+}
+
